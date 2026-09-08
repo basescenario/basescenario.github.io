@@ -1,4 +1,6 @@
-title: Базовый Сценарий
+yamltitle: Базовый Сценарий
 description: Сайт посвящен рассмотрению базовых (а изредка - экстремальных) сценариев развития макроэкономических процессов в России и мире.
 lang: ru-RU
 remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme
